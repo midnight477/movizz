@@ -1,0 +1,7 @@
+{
+  "name": "movizz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
